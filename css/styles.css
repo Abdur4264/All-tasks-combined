@@ -1,0 +1,46 @@
+body{
+    font-size: x-large;
+
+
+}
+
+h1 { 
+    padding-top: 5%;
+    padding-left: 35%;
+    margin-block-start: auto;
+    margin-block-end: auto;
+}
+
+h2{
+    font-family: monospace; font-style: normal; font-weight: 500;
+    color: #7e7e7e;
+    padding-top: 0.5%;
+    margin-block-start: auto;
+    margin-block-end: auto;
+    padding-left: 40%;
+    font-size: 22px;
+}
+
+
+
+h4{
+    padding-left: 10px;
+    padding-top: 5%;
+    margin-block-start: auto;
+    margin-block-end: auto;
+}
+
+
+
+
+p{
+    padding-left: 10px;
+    padding-right: 10px;
+    color: #7e7e7e;
+    font-size: medium;
+}
+
+.color{
+
+    color: #8f0202;
+}
